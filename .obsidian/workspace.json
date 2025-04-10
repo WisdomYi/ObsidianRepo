@@ -1,0 +1,370 @@
+{
+  "main": {
+    "id": "8a07498634089b38",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc37719bd7113578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26603481bc49202a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux 高级指令技术日志.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux 高级指令技术日志"
+            }
+          },
+          {
+            "id": "31a85fc8551bcde2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微服务/Nacos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nacos"
+            }
+          },
+          {
+            "id": "3a323b4950f385d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微服务/Nacos 集成到 .NET7 项目.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nacos 集成到 .NET7 项目"
+            }
+          },
+          {
+            "id": "58348cb5423da679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "f4d443c75e44857b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PayAdapter.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PayAdapter"
+            }
+          },
+          {
+            "id": "7ae513d182bce7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "7af1e3f49b576d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/埋点ES结构/目录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "目录"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b97838d775d9438",
+    "type": "split",
+    "children": [
+      {
+        "id": "583da1ca8f9f161f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8fc303e37e16e05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a41aa0f99052d114",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a4f1b0aa1d919a74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33c2144724fdbc19",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc8d7323a56eee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06951f92629a8bf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GPU资源管理/GPU资源动态分配方案.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "GPU资源动态分配方案 的反向链接列表"
+            }
+          },
+          {
+            "id": "4a2e64e06912763a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "869d699e510340fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f6bfcea510270367",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目/埋点ES结构/目录.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "目录 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7af1e3f49b576d6e",
+  "lastOpenFiles": [
+    "项目/埋点ES结构/BaseInfo.md",
+    "项目/埋点ES结构/目录.md",
+    "ClientType.md",
+    "未命名 1.md",
+    "未命名.md",
+    "Nacos Api手册.md",
+    "项目/实现家/AI/AiQueue.md",
+    "项目/实现家/AI/工作流.canvas",
+    "运维安全/云部署大纲.md",
+    "PayAdapter.md",
+    "Docker命令行使用手册.md",
+    "TOP.md",
+    "部署 GitLab Runner 技术日志.md",
+    "GPU资源管理/微软ML.NET官方文档.md",
+    "GPU资源管理/大纲.md",
+    "项目/模型管理/表结构/目录.md",
+    "项目/埋点ES结构",
+    "项目/模型管理/表结构/AbpAiModelAccredit.md",
+    "项目/实现家/AI/Worker.md",
+    "项目/实现家/AI/WorkerServer.md",
+    "项目/实现家/zeebe/IWorkerJob.md",
+    "项目/实现家/zeebe/Zeebe.Client.IZeebeClient.md",
+    "项目/实现家/zeebe/ZeebeContext.md",
+    "支付中心/接口层.md",
+    "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md",
+    "IdentityUser.md",
+    "Linux 高级指令技术日志.md",
+    "Excalidraw",
+    "社区推荐算法/大纲.md",
+    "项目/模型管理/表结构",
+    "项目/模型管理",
+    "支付中心",
+    "运维安全",
+    "社区推荐算法",
+    "GPU资源管理",
+    "项目/实现家/zeebe",
+    "0B850D85 1.png",
+    "0B850D85.png",
+    "项目",
+    "UserId.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}
