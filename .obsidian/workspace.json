@@ -131,52 +131,14 @@
             "id": "7ae513d182bce7f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "7af1e3f49b576d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/埋点ES结构/目录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "目录"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -294,13 +256,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/埋点ES结构/目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "目录 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -322,47 +283,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7af1e3f49b576d6e",
+  "active": "7ae513d182bce7f1",
   "lastOpenFiles": [
-    "项目/埋点ES结构/BaseInfo.md",
-    "项目/埋点ES结构/目录.md",
-    "ClientType.md",
-    "未命名 1.md",
-    "未命名.md",
-    "Nacos Api手册.md",
-    "项目/实现家/AI/AiQueue.md",
-    "项目/实现家/AI/工作流.canvas",
-    "运维安全/云部署大纲.md",
-    "PayAdapter.md",
-    "Docker命令行使用手册.md",
-    "TOP.md",
-    "部署 GitLab Runner 技术日志.md",
-    "GPU资源管理/微软ML.NET官方文档.md",
-    "GPU资源管理/大纲.md",
-    "项目/模型管理/表结构/目录.md",
-    "项目/埋点ES结构",
-    "项目/模型管理/表结构/AbpAiModelAccredit.md",
-    "项目/实现家/AI/Worker.md",
-    "项目/实现家/AI/WorkerServer.md",
-    "项目/实现家/zeebe/IWorkerJob.md",
-    "项目/实现家/zeebe/Zeebe.Client.IZeebeClient.md",
     "项目/实现家/zeebe/ZeebeContext.md",
-    "支付中心/接口层.md",
-    "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md",
-    "IdentityUser.md",
-    "Linux 高级指令技术日志.md",
-    "Excalidraw",
-    "社区推荐算法/大纲.md",
+    "项目/实现家/zeebe/Zeebe.Client.IZeebeClient.md",
+    "项目/模型管理/表结构/目录.md",
+    "项目/模型管理/表结构/AbpAiModelAccredit.md",
+    "项目/实现家/zeebe/Zeebe.Client.Api.Worker.IJobWorker.md",
+    "项目/实现家/zeebe/IZeebeService.md",
+    "项目/实现家/zeebe/IWorkerJob.md",
+    "项目/实现家/AI/工作流.canvas",
+    "项目/实现家/AI/WorkerServer.md",
+    "项目/实现家/AI/Worker.md",
+    "项目/实现家/AI/AiQueue.md",
     "项目/模型管理/表结构",
-    "项目/模型管理",
-    "支付中心",
-    "运维安全",
-    "社区推荐算法",
-    "GPU资源管理",
     "项目/实现家/zeebe",
+    "项目/实现家/AI",
+    "项目/埋点ES结构/目录.md",
+    "项目/埋点ES结构/BaseInfo.md",
+    "项目/模型管理",
+    "项目/实现家",
+    "项目/埋点ES结构",
+    "项目",
+    "部署 GitLab Runner 技术日志.md",
+    "运维安全/云部署大纲.md",
+    "运维安全",
+    "社区推荐算法/大纲.md",
+    "社区推荐算法",
+    "未命名.md",
+    "未命名 1.md",
+    "支付中心/接口层.md",
+    "支付中心",
+    "微服务/Nacos.md",
+    "微服务/Nacos 集成到 .NET7 项目.md",
+    "微服务/Nacos Docker部署.md",
+    "PayAdapter.md",
+    "Nacos Api手册.md",
+    "Linux 高级指令技术日志.md",
+    "IdentityUser.md",
+    "GPU资源管理/微软ML.NET官方文档.md",
     "0B850D85 1.png",
     "0B850D85.png",
-    "项目",
     "UserId.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
