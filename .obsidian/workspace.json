@@ -285,6 +285,7 @@
   },
   "active": "7ae513d182bce7f1",
   "lastOpenFiles": [
+    "README.md",
     "项目/实现家/zeebe/ZeebeContext.md",
     "项目/实现家/zeebe/Zeebe.Client.IZeebeClient.md",
     "项目/模型管理/表结构/目录.md",
@@ -321,7 +322,6 @@
     "Nacos Api手册.md",
     "Linux 高级指令技术日志.md",
     "IdentityUser.md",
-    "GPU资源管理/微软ML.NET官方文档.md",
     "0B850D85 1.png",
     "0B850D85.png",
     "UserId.canvas",
