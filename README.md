@@ -1,0 +1,2 @@
+# ObsidianRepo
+Obsidian仓库
