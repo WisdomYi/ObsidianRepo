@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "trashOption": "none"
+  "trashOption": "none",
+  "readableLineLength": false,
+  "promptDelete": false
 }

@@ -1,21 +1,25 @@
 {
 	"nodes":[
-		{"id":"59a0fd2430fbbbd1","type":"group","x":40,"y":-1120,"width":570,"height":100,"label":"应用层"},
-		{"id":"efe50c2e0849efba","type":"text","text":"gpt.shixianjia.com","x":340,"y":-1100,"width":250,"height":60},
+		{"id":"8d4bcf8082954117","x":280,"y":-1780,"width":310,"height":280,"type":"group","label":"GPU服务器"},
+		{"id":"59a0fd2430fbbbd1","type":"group","x":-40,"y":-1120,"width":570,"height":100,"label":"云服务器-GPT 服务"},
 		{"id":"baa23ec1fcad518c","type":"file","file":"项目/实现家/AI/WorkerServer.md","x":170,"y":-520,"width":400,"height":440},
 		{"id":"03b4fc56cab7cddb","type":"file","file":"项目/实现家/AI/Worker.md","x":-380,"y":-520,"width":460,"height":580},
 		{"id":"f2490bac82af496c","type":"file","file":"项目/实现家/AI/AiQueue.md","x":660,"y":-520,"width":400,"height":420},
-		{"id":"678e6c6c9bd1ad91","type":"text","text":"zeebeServer","x":60,"y":-1100,"width":250,"height":60},
-		{"id":"758b24bda1a85ae4","type":"text","text":"zeebeJob","x":310,"y":-1580,"width":250,"height":60}
+		{"id":"758b24bda1a85ae4","type":"text","text":"zeebeJob","x":310,"y":-1580,"width":250,"height":60},
+		{"id":"2aa49a170cca8b16","x":310,"y":-1760,"width":250,"height":60,"type":"text","text":"comfyUI Api"},
+		{"id":"efe50c2e0849efba","type":"text","text":"gpt.shixianjia.com","x":260,"y":-1100,"width":250,"height":60},
+		{"id":"678e6c6c9bd1ad91","type":"text","text":"zeebeServer","x":-20,"y":-1100,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"81f3c9dff1920eb9","fromNode":"59a0fd2430fbbbd1","fromSide":"right","toNode":"f2490bac82af496c","toSide":"top"},
 		{"id":"56a2370e839bec1e","fromNode":"f2490bac82af496c","fromSide":"top","toNode":"59a0fd2430fbbbd1","toSide":"right","label":"维护队列信息"},
 		{"id":"fe47a5636d37c3ec","fromNode":"efe50c2e0849efba","fromSide":"left","toNode":"678e6c6c9bd1ad91","toSide":"right"},
 		{"id":"4185b86f1ba9d4b4","fromNode":"efe50c2e0849efba","fromSide":"top","toNode":"758b24bda1a85ae4","toSide":"bottom","label":"singalr(wss)"},
-		{"id":"a152eabaeca8f7c8","fromNode":"678e6c6c9bd1ad91","fromSide":"top","toNode":"758b24bda1a85ae4","toSide":"left","label":"job"},
 		{"id":"d0e5f66de8424c1a","fromNode":"efe50c2e0849efba","fromSide":"bottom","toNode":"baa23ec1fcad518c","toSide":"top","label":"维护任务节点状态"},
 		{"id":"a494642a0052dc41","fromNode":"efe50c2e0849efba","fromSide":"bottom","toNode":"03b4fc56cab7cddb","toSide":"top","label":"维护服务器状态"},
-		{"id":"a1d6710a97bc81d9","fromNode":"758b24bda1a85ae4","fromSide":"bottom","toNode":"efe50c2e0849efba","toSide":"top"}
+		{"id":"a1d6710a97bc81d9","fromNode":"758b24bda1a85ae4","fromSide":"bottom","toNode":"efe50c2e0849efba","toSide":"top"},
+		{"id":"e011119f8137dbc1","fromNode":"758b24bda1a85ae4","fromSide":"top","toNode":"2aa49a170cca8b16","toSide":"bottom","label":"http"},
+		{"id":"877d1e1c93039583","fromNode":"2aa49a170cca8b16","fromSide":"bottom","toNode":"758b24bda1a85ae4","toSide":"top"},
+		{"id":"0c2c36aa85c4bc1e","fromNode":"758b24bda1a85ae4","fromSide":"left","toNode":"678e6c6c9bd1ad91","toSide":"top","label":"JobType"}
 	]
 }

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PayAdapter.md",
+                "file": "项目/OSS结构/CDN域名管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,21 +124,119 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PayAdapter"
+              "title": "CDN域名管理"
             }
           },
           {
-            "id": "7ae513d182bce7f1",
+            "id": "d2fa0aefb2344531",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "项目/OSS结构/CDN域名管理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "CDN域名管理"
+            }
+          },
+          {
+            "id": "ff696c06e07c61eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "营销中心/功能模块架构图.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "功能模块架构图"
+            }
+          },
+          {
+            "id": "2f7de5f6ccb08194",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-01 09.53.26.excalidraw"
+            }
+          },
+          {
+            "id": "193b5f323813adb4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-01 09.53.26.excalidraw"
+            }
+          },
+          {
+            "id": "4be6b0d125a1bc69",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-06 09.27.45.excalidraw"
+            }
+          },
+          {
+            "id": "a4fa8fd69c09bd9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/埋点ES结构/埋点方案.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "埋点方案"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -230,11 +328,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Drawing 2025-05-06 09.27.45.excalidraw 的出链列表"
             }
           },
           {
@@ -256,21 +355,41 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Drawing 2025-05-06 09.27.45.excalidraw 的大纲"
+            }
+          },
+          {
+            "id": "05b6c8b1828e16da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4f8547ec261d64bb",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,48 +399,51 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ae513d182bce7f1",
+  "active": "4be6b0d125a1bc69",
   "lastOpenFiles": [
-    "项目/模型管理/表结构/AbpAiModelAccredit.md",
-    "项目/模型管理/表结构/目录.md",
-    "项目/实现家/zeebe/ZeebeContext.md",
-    "项目/实现家/zeebe/Zeebe.Client.IZeebeClient.md",
-    "项目/实现家/zeebe/IZeebeService.md",
-    "项目/实现家/zeebe/Zeebe.Client.Api.Worker.IJobWorker.md",
-    "项目/实现家/zeebe/IWorkerJob.md",
+    "项目/AI事业部架构/未命名.md",
+    "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md",
+    "项目/AI事业部架构",
+    "Excalidraw/内容分发 2025-04-29 15.38.44.excalidraw.md",
+    "未命名.canvas",
+    "Excalidraw/内容分发.md",
+    "Prometheus.md",
+    "营销中心/功能模块架构图.md",
+    "项目/OSS结构/img.aiiiin.com.md",
+    "营销中心",
+    "Docker命令行使用手册.md",
+    "ElasticSearch备忘.md",
+    "IdentityUser.md",
+    "Linux 高级指令技术日志.md",
+    "Nacos Api手册.md",
+    "PayAdapter.md",
+    "README.md",
+    "未命名.md",
+    "发版历史.md",
+    "部署 GitLab Runner 技术日志.md",
+    "支付中心/接口层.md",
+    "GPU资源管理/GPUStack平台.md",
+    "GPU资源管理/CUDA版本对照表.md",
+    "GPU资源管理/AIDevGallery工具.md",
+    "GPU资源管理/微软ML.NET官方文档.md",
+    "GPU资源管理/大纲.md",
+    "运维安全/redis操作手册.md",
+    "运维安全/云部署大纲.md",
     "项目/实现家/AI/工作流.canvas",
-    "项目/实现家/AI/WorkerServer.md",
-    "项目/实现家/AI/AiQueue.md",
-    "项目/实现家/AI/Worker.md",
+    "项目/OSS结构",
     "项目/模型管理/表结构",
     "项目/实现家/zeebe",
     "项目/实现家/AI",
-    "项目/埋点ES结构/目录.md",
-    "项目/埋点ES结构/BaseInfo.md",
     "项目/模型管理",
     "项目/实现家",
     "项目/埋点ES结构",
     "项目",
-    "部署 GitLab Runner 技术日志.md",
-    "运维安全/云部署大纲.md",
-    "运维安全",
-    "社区推荐算法/大纲.md",
-    "社区推荐算法",
-    "未命名.md",
-    "未命名 1.md",
-    "支付中心/接口层.md",
-    "支付中心",
-    "微服务/Nacos.md",
-    "微服务/Nacos 集成到 .NET7 项目.md",
-    "微服务/Nacos Docker部署.md",
-    "PayAdapter.md",
-    "Nacos Api手册.md",
-    "Linux 高级指令技术日志.md",
-    "IdentityUser.md",
-    "GPU资源管理/大纲.md",
     "0B850D85 1.png",
     "0B850D85.png",
     "UserId.canvas",
