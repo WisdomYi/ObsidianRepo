@@ -191,24 +191,58 @@
             "id": "193b5f323813adb4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md"
+                "file": "项目/实现家/服务器资源.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-01 09.53.26.excalidraw"
+              "icon": "lucide-file",
+              "title": "服务器资源"
             }
           },
           {
-            "id": "4be6b0d125a1bc69",
+            "id": "984cf963026ca0b3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md"
+                "file": "Camunda 8 连接器的功能.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-06 09.27.45.excalidraw"
+              "icon": "lucide-file",
+              "title": "Camunda 8 连接器的功能"
+            }
+          },
+          {
+            "id": "0b0131c6ad6f7911",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -236,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -328,12 +362,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md",
+                "file": "任务列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Drawing 2025-05-06 09.27.45.excalidraw 的出链列表"
+              "title": "任务列表 的出链列表"
             }
           },
           {
@@ -355,13 +389,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md",
+                "file": "任务列表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-05-06 09.27.45.excalidraw 的大纲"
+              "title": "任务列表 的大纲"
             }
           },
           {
@@ -389,7 +423,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 836.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,46 +438,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be6b0d125a1bc69",
+  "active": "0b0131c6ad6f7911",
   "lastOpenFiles": [
-    "项目/AI事业部架构/未命名.md",
-    "项目/AI事业部架构/Drawing 2025-05-06 09.27.45.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md",
-    "项目/AI事业部架构",
-    "Excalidraw/内容分发 2025-04-29 15.38.44.excalidraw.md",
-    "未命名.canvas",
-    "Excalidraw/内容分发.md",
+    "README.md",
     "Prometheus.md",
-    "营销中心/功能模块架构图.md",
-    "项目/OSS结构/img.aiiiin.com.md",
-    "营销中心",
-    "Docker命令行使用手册.md",
+    "项目/模型管理/表结构/目录.md",
+    "项目/模型管理/表结构/AbpAiModelAccredit.md",
+    "GPU资源管理/微软ML.NET官方文档.md",
+    "GPU资源管理/CUDA版本对照表.md",
+    "GPU资源管理/AIDevGallery工具.md",
+    "Excalidraw/内容分发 2025-04-29 15.38.44.excalidraw.md",
+    "项目/zeebe工作流/部署.md",
+    "连接器的功能.md",
+    "项目/zeebe工作流",
+    "Camunda 8 连接器的功能.md",
+    "预发布部署 2025-05-13 16.15.30.excalidraw.md",
+    "项目动态分配GPU资源执行任务的方法与工具.md",
     "ElasticSearch备忘.md",
+    "Docker命令行使用手册.md",
     "IdentityUser.md",
     "Linux 高级指令技术日志.md",
     "Nacos Api手册.md",
     "PayAdapter.md",
-    "README.md",
-    "未命名.md",
-    "发版历史.md",
-    "部署 GitLab Runner 技术日志.md",
-    "支付中心/接口层.md",
-    "GPU资源管理/GPUStack平台.md",
-    "GPU资源管理/CUDA版本对照表.md",
-    "GPU资源管理/AIDevGallery工具.md",
-    "GPU资源管理/微软ML.NET官方文档.md",
+    "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md",
+    "社区推荐算法/线性代数.md",
+    "社区推荐算法/推荐算法技能树.md",
+    "社区推荐算法/大纲.md",
     "GPU资源管理/大纲.md",
+    "支付中心/接口层.md",
     "运维安全/redis操作手册.md",
-    "运维安全/云部署大纲.md",
     "项目/实现家/AI/工作流.canvas",
+    "学习手册",
+    "项目/AI事业部架构",
+    "未命名.canvas",
+    "营销中心",
     "项目/OSS结构",
     "项目/模型管理/表结构",
     "项目/实现家/zeebe",
     "项目/实现家/AI",
     "项目/模型管理",
     "项目/实现家",
-    "项目/埋点ES结构",
-    "项目",
     "0B850D85 1.png",
     "0B850D85.png",
     "UserId.canvas",
