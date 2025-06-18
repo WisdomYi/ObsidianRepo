@@ -239,10 +239,60 @@
             "id": "0b0131c6ad6f7911",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "学习手册/GitLab Runner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GitLab Runner"
+            }
+          },
+          {
+            "id": "07c9a844fb52d7a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代码结构.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "代码结构"
+            }
+          },
+          {
+            "id": "56f7423a1b81bb37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "代码结构.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "代码结构.excalidraw"
             }
           },
           {
@@ -270,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -343,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPU资源管理/GPU资源动态分配方案.md",
+                "file": "代码结构.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +403,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "GPU资源动态分配方案 的反向链接列表"
+              "title": "代码结构.excalidraw 的反向链接列表"
             }
           },
           {
@@ -362,12 +412,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "任务列表.md",
+                "file": "代码结构.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "任务列表 的出链列表"
+              "title": "代码结构.excalidraw 的出链列表"
             }
           },
           {
@@ -389,13 +439,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任务列表.md",
+                "file": "代码结构.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "任务列表 的大纲"
+              "title": "代码结构.excalidraw 的大纲"
             }
           },
           {
@@ -423,7 +473,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 836.5
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -438,40 +488,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b0131c6ad6f7911",
+  "active": "05b6c8b1828e16da",
   "lastOpenFiles": [
-    "README.md",
+    "代码结构.md",
+    "代码结构.excalidraw.md",
+    "连接器的功能.md",
+    "发版历史.md",
+    "学习手册/Linux.md",
+    "IdentityUser.md",
+    "学习手册/Docker.md",
+    "学习手册/GitLab Runner.md",
+    "GPU资源管理/Model Hot Swapping技术.md",
+    "GPU资源管理/AIDevGallery工具.md",
+    "GPU资源管理/微软ML.NET官方文档.md",
     "Prometheus.md",
+    "README.md",
+    "ElasticSearch备忘.md",
+    "项目/营销中心/功能模块架构图.md",
+    "运维安全/云部署大纲.md",
+    "运维安全/redis操作手册.md",
     "项目/模型管理/表结构/目录.md",
     "项目/模型管理/表结构/AbpAiModelAccredit.md",
-    "GPU资源管理/微软ML.NET官方文档.md",
     "GPU资源管理/CUDA版本对照表.md",
-    "GPU资源管理/AIDevGallery工具.md",
     "Excalidraw/内容分发 2025-04-29 15.38.44.excalidraw.md",
     "项目/zeebe工作流/部署.md",
-    "连接器的功能.md",
     "项目/zeebe工作流",
     "Camunda 8 连接器的功能.md",
     "预发布部署 2025-05-13 16.15.30.excalidraw.md",
     "项目动态分配GPU资源执行任务的方法与工具.md",
-    "ElasticSearch备忘.md",
-    "Docker命令行使用手册.md",
-    "IdentityUser.md",
-    "Linux 高级指令技术日志.md",
     "Nacos Api手册.md",
-    "PayAdapter.md",
-    "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md",
-    "社区推荐算法/线性代数.md",
-    "社区推荐算法/推荐算法技能树.md",
-    "社区推荐算法/大纲.md",
-    "GPU资源管理/大纲.md",
-    "支付中心/接口层.md",
-    "运维安全/redis操作手册.md",
     "项目/实现家/AI/工作流.canvas",
     "学习手册",
     "项目/AI事业部架构",
     "未命名.canvas",
-    "营销中心",
+    "项目/营销中心",
     "项目/OSS结构",
     "项目/模型管理/表结构",
     "项目/实现家/zeebe",
