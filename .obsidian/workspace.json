@@ -335,10 +335,12 @@
             "id": "fe80ed08ca621124",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "excalidraw",
+              "state": {
+                "file": "项目/供应链/架构.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "架构"
             }
           },
           {
@@ -485,12 +487,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "项目/供应链/架构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "架构 的大纲"
             }
           },
           {
