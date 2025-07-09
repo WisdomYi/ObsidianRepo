@@ -287,12 +287,58 @@
             "id": "56f7423a1b81bb37",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "代码结构.excalidraw.md"
+                "file": "学习手册/DotNet/日志.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "代码结构.excalidraw"
+              "icon": "lucide-file",
+              "title": "日志"
+            }
+          },
+          {
+            "id": "95fafab1513311ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/供应链/供应链流程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "供应链流程"
+            }
+          },
+          {
+            "id": "fe80ed08ca621124",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -320,7 +366,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -393,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码结构.excalidraw.md",
+                "file": "运维安全/ECS列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +449,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "代码结构.excalidraw 的反向链接列表"
+              "title": "ECS列表 的反向链接列表"
             }
           },
           {
@@ -412,12 +458,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码结构.excalidraw.md",
+                "file": "运维安全/ECS列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "代码结构.excalidraw 的出链列表"
+              "title": "ECS列表 的出链列表"
             }
           },
           {
@@ -439,13 +485,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码结构.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "代码结构.excalidraw 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -488,35 +533,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05b6c8b1828e16da",
+  "active": "fe80ed08ca621124",
   "lastOpenFiles": [
-    "代码结构.md",
-    "代码结构.excalidraw.md",
-    "连接器的功能.md",
-    "发版历史.md",
-    "学习手册/Linux.md",
-    "IdentityUser.md",
-    "学习手册/Docker.md",
-    "学习手册/GitLab Runner.md",
-    "GPU资源管理/Model Hot Swapping技术.md",
-    "GPU资源管理/AIDevGallery工具.md",
-    "GPU资源管理/微软ML.NET官方文档.md",
-    "Prometheus.md",
-    "README.md",
-    "ElasticSearch备忘.md",
-    "项目/营销中心/功能模块架构图.md",
-    "运维安全/云部署大纲.md",
-    "运维安全/redis操作手册.md",
-    "项目/模型管理/表结构/目录.md",
-    "项目/模型管理/表结构/AbpAiModelAccredit.md",
-    "GPU资源管理/CUDA版本对照表.md",
-    "Excalidraw/内容分发 2025-04-29 15.38.44.excalidraw.md",
+    "项目/供应链/架构.md",
+    "项目/供应链/供应链流程.md",
     "项目/zeebe工作流/部署.md",
-    "项目/zeebe工作流",
-    "Camunda 8 连接器的功能.md",
+    "发版.md",
+    "连接器的功能.md",
     "预发布部署 2025-05-13 16.15.30.excalidraw.md",
     "项目动态分配GPU资源执行任务的方法与工具.md",
-    "Nacos Api手册.md",
+    "PayAdapter.md",
+    "Prometheus.md",
+    "README.md",
+    "学习手册/DotNet/封装图.excalidraw.md",
+    "学习手册/DotNet/日志.md",
+    "学习手册/DotNet/xunit.md",
+    "学习手册/前端/CSS技巧.md",
+    "CSS.md",
+    "学习手册/前端",
+    "项目/实现家/Drawing 2025-05-08 15.17.21.excalidraw.md",
+    "项目/营销中心/功能模块架构图.md",
+    "项目/支付中心/接口层.md",
+    "运维安全/redis操作手册.md",
+    "项目/供应链",
+    "IdentityUser.md",
+    "ElasticSearch备忘.md",
+    "运维安全/ECS列表.md",
+    "运维安全/云部署大纲.md",
+    "封装图.md",
+    "代码结构.excalidraw.md",
+    "学习手册/DotNet",
+    "代码结构.md",
+    "项目/zeebe工作流",
     "项目/实现家/AI/工作流.canvas",
     "学习手册",
     "项目/AI事业部架构",
@@ -525,9 +573,6 @@
     "项目/OSS结构",
     "项目/模型管理/表结构",
     "项目/实现家/zeebe",
-    "项目/实现家/AI",
-    "项目/模型管理",
-    "项目/实现家",
     "0B850D85 1.png",
     "0B850D85.png",
     "UserId.canvas",
