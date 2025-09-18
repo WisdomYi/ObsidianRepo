@@ -8,288 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26603481bc49202a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux 高级指令技术日志.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux 高级指令技术日志"
-            }
-          },
-          {
-            "id": "31a85fc8551bcde2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微服务/Nacos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nacos"
-            }
-          },
-          {
-            "id": "3a323b4950f385d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微服务/Nacos 集成到 .NET7 项目.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nacos 集成到 .NET7 项目"
-            }
-          },
-          {
-            "id": "58348cb5423da679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "f4d443c75e44857b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/OSS结构/CDN域名管理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CDN域名管理"
-            }
-          },
-          {
-            "id": "d2fa0aefb2344531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/OSS结构/CDN域名管理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CDN域名管理"
-            }
-          },
-          {
-            "id": "ff696c06e07c61eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "营销中心/功能模块架构图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "功能模块架构图"
-            }
-          },
-          {
-            "id": "2f7de5f6ccb08194",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-01 09.53.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-01 09.53.26.excalidraw"
-            }
-          },
-          {
-            "id": "193b5f323813adb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/实现家/服务器资源.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "服务器资源"
-            }
-          },
-          {
-            "id": "984cf963026ca0b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camunda 8 连接器的功能.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Camunda 8 连接器的功能"
-            }
-          },
-          {
-            "id": "0b0131c6ad6f7911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习手册/GitLab Runner.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GitLab Runner"
-            }
-          },
-          {
-            "id": "07c9a844fb52d7a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码结构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "代码结构"
-            }
-          },
-          {
             "id": "56f7423a1b81bb37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习手册/DotNet/日志.md",
+                "file": "学习手册/DotNet/内置中间件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -304,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "日志"
+              "title": "内置中间件"
             }
           },
           {
-            "id": "95fafab1513311ab",
+            "id": "ed2cb145a6ba718b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/供应链/供应链流程.md",
+                "file": "学习手册/微服务/K8s学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -328,28 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "供应链流程"
+              "title": "K8s学习笔记"
             }
           },
           {
-            "id": "fe80ed08ca621124",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "项目/供应链/架构.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "架构"
-            }
-          },
-          {
-            "id": "a4fa8fd69c09bd9b",
+            "id": "e94e5e8682e3283f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/埋点ES结构/埋点方案.md",
+                "file": "学习手册/微服务/K8s学习笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -364,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "埋点方案"
+              "title": "K8s学习笔记"
+            }
+          },
+          {
+            "id": "aa6eb4922a4de750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习手册/监控/Grafana、Prometheus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grafana、Prometheus"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -487,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/供应链/架构.md",
+                "file": "学习手册/DotNet/内置中间件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "架构 的大纲"
+              "title": "内置中间件 的大纲"
             }
           },
           {
@@ -521,10 +257,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -536,46 +273,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05b6c8b1828e16da",
+  "active": "e94e5e8682e3283f",
   "lastOpenFiles": [
-    "项目/供应链/架构.md",
-    "项目/供应链/供应链流程.md",
-    "项目/zeebe工作流/部署.md",
-    "发版.md",
-    "连接器的功能.md",
-    "预发布部署 2025-05-13 16.15.30.excalidraw.md",
-    "项目动态分配GPU资源执行任务的方法与工具.md",
-    "PayAdapter.md",
-    "Prometheus.md",
-    "README.md",
-    "学习手册/DotNet/封装图.excalidraw.md",
+    "学习手册/微服务/Drawing 2025-09-04 09.19.01.excalidraw.md",
+    "学习手册/微服务/K8s学习笔记.md",
+    "运维安全/云部署大纲.md",
+    "学习手册/微服务/Drawing 2025-08-04 11.07.55.excalidraw.md",
+    "算法模型/数据清洗.md",
+    "学习手册/前端/Vue.md",
+    "学习手册/前端/配置/vite.config.ts.md",
+    "学习手册/前端/浏览器.md",
+    "学习手册/前端/配置/(.eslintrc.js).md",
+    "学习手册/前端/配置/tsconfig.json.md",
+    "学习手册/前端/配置/tsconfig.node.json.md",
+    "学习手册/前端/配置",
+    "项目/埋点ES结构/目录.md",
+    "未命名.base",
+    "学习手册/DotNet/内置中间件.md",
+    "GPU资源管理/大纲.md",
+    "学习手册/Docker.md",
+    "学习手册/微服务/dockercompose使用技巧.md",
+    "学习手册/微服务/Nacos Docker部署.md",
+    "学习手册/监控/Grafana、Prometheus.md",
+    "运维安全/redis操作手册.md",
+    "学习手册/监控",
+    "运维安全/ECS列表.md",
+    "算法模型",
+    "学习手册/微服务/Nacos 集成到 .NET7 项目.md",
+    "学习手册/微服务/Nacos.md",
     "学习手册/DotNet/日志.md",
     "学习手册/DotNet/xunit.md",
-    "学习手册/前端/CSS技巧.md",
-    "CSS.md",
+    "学习手册/DotNet/封装图.excalidraw.md",
+    "连接器的功能.md",
+    "学习手册/Linux",
     "学习手册/前端",
-    "项目/实现家/Drawing 2025-05-08 15.17.21.excalidraw.md",
-    "项目/营销中心/功能模块架构图.md",
-    "项目/支付中心/接口层.md",
-    "运维安全/redis操作手册.md",
     "项目/供应链",
-    "IdentityUser.md",
-    "ElasticSearch备忘.md",
-    "运维安全/ECS列表.md",
-    "运维安全/云部署大纲.md",
-    "封装图.md",
-    "代码结构.excalidraw.md",
     "学习手册/DotNet",
-    "代码结构.md",
     "项目/zeebe工作流",
     "项目/实现家/AI/工作流.canvas",
     "学习手册",
-    "项目/AI事业部架构",
     "未命名.canvas",
-    "项目/营销中心",
-    "项目/OSS结构",
-    "项目/模型管理/表结构",
-    "项目/实现家/zeebe",
     "0B850D85 1.png",
     "0B850D85.png",
     "UserId.canvas",

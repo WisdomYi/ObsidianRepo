@@ -190,3 +190,28 @@ docker logs CONTAINER_ID | grep -A 10 -B 10 'error' # 打印匹配行的前后10
 docker logs CONTAINER_ID | grep -A 10 'error' # 打印匹配行的后10行
 docker logs CONTAINER_ID | grep -B 10 'error' # 打印匹配行的前10行
 ```
+
+## 八、修复与维护
+
+snap 版docker日志
+```
+//查看dockerd进程日志
+sudo journalctl -u snap.docker.dockerd.service -e
+
+//容器存放点
+/run/snap.docker/containerd/daemon/io.containerd.runtime.v2.task/moby/<container_id>
+
+
+```
+
+关于apparmor机制：
+- docker stop提示权限不足是有可能dockerd被apparmor机制限制了权限，把apparmor配置文件配置为投诉模式可以解开权限
+- 如果aa-complain无权限或者找不到文件 可以使用更底层的卸载操作来卸载该配置
+```
+aa-complain 配置路径
+apparmor_parser 配置路径  # 卸载配置
+
+默认配置路径：/etc/apparmor.d
+snap的配置路径：/var/lib/snapd/apparmor/profiles
+
+```
