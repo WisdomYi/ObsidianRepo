@@ -4,7 +4,7 @@
 2.xunit.runner.visualstudio : nuget解释器，支持vs2022以后的版本中的测试管理器。
 3.Microsoft.NET.Test.SDK :  运行测试的基础包，如果不安装会导致找不到testhost。
 
-4.方法中加上特性 [Fact]。
+4.方法中加上特性 \[Fact\]。
 5.执行vs调试/运行测试。
 
 通常可指定Xunit.Assert类校验。
